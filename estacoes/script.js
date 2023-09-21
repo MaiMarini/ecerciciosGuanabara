@@ -32,7 +32,6 @@ botao.addEventListener("click", (evento) => {
       break;
 
     default:
-      // est = "indefinida";
       check = true;
       break;
   }
